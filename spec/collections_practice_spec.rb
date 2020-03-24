@@ -73,8 +73,5 @@ describe 'collections practice' do
       expect(swap_elements(["blake", "ashley", "scott"], 0, 1)).to eq(["ashley", "blake", "scott"])
     end
   end
-  
+
 end
-
-
- 
